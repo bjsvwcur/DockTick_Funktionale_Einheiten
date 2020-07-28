@@ -4,25 +4,25 @@
 
 ### 1.1.	Produktionsumgebung
 
-Ca alle 2 Wochen wird der Stand der Integrationsumgebung auf die Produktionsumgebung gespielt (Termin für Rollout steht im Ticketsystem). 
+Ca alle 2 Wochen wird der Stand der Integrationsumgebung auf die Produktionsumgebung gespielt (Termin für Rollout steht im Redmine). Es sollte hier keine Anpassungen vorgenommen werden
 
 URL des WebGIS-Client:	
-https://geo.so.ch/map resp. https://geo.so.ch/agdi 
+https://geo.so.ch/map 
 
 ### 1.2.	Integrationsumgebung
 
-In der Integrationsumgebung können neue Layer erfasst werden oder bestehende geändert werden. Hier werden sie auch von den Ämtern geprüft und abgenommen. Ca alle 2 Wochen wird der Stand der Integrationsumgebung auf die Produktionsumgebung gespielt (Termin für Rollout steht im Ticketsystem).
+In der Integrationsumgebung können neue Layer erfasst werden oder bestehende geändert werden. Hier werden sie auch von den Ämtern geprüft und abgenommen. Ca alle 2 Wochen wird der Stand der Integrationsumgebung auf die Produktionsumgebung gespielt.
 
-URL des WebGIS-Client:	https://geo-i.so.ch/map resp. https://geo-i.so.ch/agdi 
+URL des WebGIS-Client:	https://geo-i.so.ch/map 
 
 ### 1.3.	Testumgebung
 
 In der Testumgebung wird die Anwendung angepasst und getestet. Sie läuft daher nicht stabil.
 
-URL des WebGIS-Client:	https://geo-t.so.ch/map resp. https://geo-t.so.ch/agdi 
+URL des WebGIS-Client:	https://geo-t.so.ch/map 
 
 ## 2.	Schema und Tabellen anlegen
->> Link auf Betrieb
+> Link auf Betrieb
 
 ## 3.	Gretljob im Jenkins anlegen
 
