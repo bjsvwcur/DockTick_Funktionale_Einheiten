@@ -23,7 +23,7 @@ DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffent
   * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/interlis-repository)
 * **Openshift**
   * Betrieb
-* **ÖREB**
+* **ÖREB-Kataster**
   * Benutzer
   * Betrieb
 * **QGIS**
