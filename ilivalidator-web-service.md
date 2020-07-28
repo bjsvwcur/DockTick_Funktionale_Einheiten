@@ -1,6 +1,6 @@
 # ilivalidator-web-service
 
-Der Webservice wird hauptsächlich heute für die Nutzungsplanung verwendet, steht aber im Prinzip für alle Modell offen.
+Der Webservice wird hauptsächlich heute für die Nutzungsplanung verwendet, steht aber im Prinzip für alle Modelle offen.
 Für die Nutzungsplanung wurden spezielle Validierungsfunktionen implementiert. 
 
 Die Programmbibliothek ilivalidator selbst ist nicht Bestandteil dieser funktionalen Einheit. 
