@@ -10,7 +10,7 @@ DockTick Dokumentationsverzeichnis
   * Benutzer
   * Betrieb
 * **Gretl-Jenkins**
-  * Benutzer
+  * [Benutzer](https://github.com/sogis/gretljobs)
   * Betrieb
 * **ilivalidator-web-service**
   * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/ilivalidator-web-service/ilivalidator-web-service.md)
