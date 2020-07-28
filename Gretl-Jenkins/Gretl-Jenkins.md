@@ -1,6 +1,9 @@
 # Gretl-Jenkins
+## Verantwortlicher:
 
-## weiterführende Dokumentationen:
+## Beschreibung Funktionale Einheit:
+
+## Repos:
 https://github.com/sogis/gretljobs
 
 https://github.com/sogis/oereb-gretljobs
