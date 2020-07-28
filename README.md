@@ -1,5 +1,5 @@
 # Dokumentenablage Funktionale Einheiten
-DockTick Dokumentationsverzeichnis
+DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffentlich)
 
 * **AGDI**
   * Benutzer
