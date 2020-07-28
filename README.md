@@ -3,10 +3,10 @@ DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffent
 
 * **AGDI**
   * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/AGDI/AGDI.md)
-  * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/av-datenabgabe)
+  * Betrieb
 * **AV-Datenabgabe**
   * [Benutzer](https://github.com/sogis/av_datenabgabe_ng)
-  * Betrieb
+  * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/av-datenabgabe)
 * **Datenbank**
   * Betrieb
 * **Gretl**
