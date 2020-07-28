@@ -11,7 +11,7 @@ DockTick Dokumentationsverzeichnis
   * Betrieb
 * **ilivalidator-web-service**
   * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/ilivalidator-web-service.md)
-  * Betrieb
+  * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/ilivalidator)
 * **Openshift**
   * Betrieb
 * **ÖREB**
