@@ -1,4 +1,4 @@
-# ilivalidator-web-service
+* ilivalidator-web-service
 
 Der Webservice wird hauptsächlich heute für die Nutzungsplanung verwendet, steht aber im Prinzip für alle Modell offen.
 Für die Nutzungsplanung wurden spezielle Validierungsfunktionen implementiert. 
