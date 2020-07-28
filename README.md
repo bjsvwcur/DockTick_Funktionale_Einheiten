@@ -1,9 +1,6 @@
 # Dokumentenablage Funktionale Einheiten
 DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffentlich)
 
-* **AGDI**
-  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/AGDI/AGDI.md)
-  * Betrieb
 * **AV-Datenabgabe**
   * [Benutzer](https://github.com/sogis/av_datenabgabe_ng)
   * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/av-datenabgabe)
