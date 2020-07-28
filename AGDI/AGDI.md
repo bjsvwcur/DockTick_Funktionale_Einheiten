@@ -1,6 +1,9 @@
 # AGDI
+## Verantwortlicher:
 
-## weiterführende Dokumente:
+## Beschreibung funktionale Einheit:
+
+## Anleitungen:
 * Ablaufschema Layer 
   * [neu](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/AGDI/AGDI_Layer_neu.md) 
   * ändern
