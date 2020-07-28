@@ -10,10 +10,10 @@ DockTick Dokumentationsverzeichnis
   * Benutzer
   * Betrieb
 * **ilivalidator-web-service**
-  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/ilivalidator-web-service.md)
+  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/ilivalidator-web-service/ilivalidator-web-service.md)
   * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/ilivalidator)
 * **Interlis-Modellablage**
-  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/INTERLIS-Modellablage.md)
+  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/INTERLIS-Modellablage/INTERLIS-Modellablage.md)
   * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/interlis-repository)
 * **Openshift**
   * Betrieb
