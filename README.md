@@ -2,7 +2,7 @@
 DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffentlich)
 
 * **AGDI**
-  * Benutzer
+  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/AGDI/AGDI.md)
   * Betrieb
 * **Datenbank**
   * Betrieb
