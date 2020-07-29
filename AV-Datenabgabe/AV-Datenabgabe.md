@@ -1,5 +1,5 @@
 # AV-Datenabgabe
-## Verantwortlicher:
+Verantwortlicher:
 
 ## Beschreibung Funktionale Einheit:
 Simple Liste mit Links auf ITF, DXF, SHP und Web GIS Client.
