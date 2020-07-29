@@ -9,6 +9,7 @@ Verantwortlicher:
 * oereb-handbuch  *(Handbuch OEREB-Kataster Kanton Solothurn)*
 * pdf4oereb  *(pdf4oereb wandelt ein PLR DATA-Extract XML-Dokument in das entsprechende PDF-Dokument um)*
 * oereb-iconizer  *(Erstellt icons für das OEREB-Rahmenmodell)*
+* oereb-db *(Datenbankstruktur für den ÖREB-Kataster)
 
 ## Handbuch OEREB-Kataster Kanton Solothurn:
 https://sogis.github.io/oereb-handbuch/master.html
@@ -27,3 +28,6 @@ https://github.com/sogis/oereb-handbuch
 https://github.com/openoereb/pdf4oereb
 
 https://github.com/edigonzales/oereb-iconizer
+
+https://github.com/sogis/oereb-db
+
