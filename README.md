@@ -42,7 +42,7 @@ DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffent
   * Benutzer
   * Betrieb
 * **QGIS Desktop**
-  * Benutzer
+  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/QGIS_Desktop/QGIS_Desktop.md)
 * **SO!API (Services)**
   * Benutzer
   * Betrieb
