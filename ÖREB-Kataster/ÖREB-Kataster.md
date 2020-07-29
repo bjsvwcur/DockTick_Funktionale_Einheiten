@@ -5,10 +5,10 @@ Verantwortlicher:
 * oereb-web-service    *(Open-Source-Implementierung des serverseitigen Teils für das Schweizer "Kataster der öffentlich-rechtlichen Beschränkungen des Landbesitzes")*
 * oereb-web-service-docker
 * oereb-gretljobs    *(GRETL-Jobs zum Veröffentlichen von Daten in OEREB-Kataster)*
-* oereb-wms: *(WMS mit QGIS Server für OEREB-Daten)*
-* oereb-handbuch: *(Handbuch OEREB-Kataster Kanton Solothurn)*
-* pdf4oereb: *(pdf4oereb wandelt ein PLR DATA-Extract XML-Dokument in das entsprechende PDF-Dokument um)*
-* oereb-iconizer: *(Erstellt icons für das OEREB-Rahmenmodell)*
+* oereb-wms  *(WMS mit QGIS Server für OEREB-Daten)*
+* oereb-handbuch  *(Handbuch OEREB-Kataster Kanton Solothurn)*
+* pdf4oereb  *(pdf4oereb wandelt ein PLR DATA-Extract XML-Dokument in das entsprechende PDF-Dokument um)*
+* oereb-iconizer  *(Erstellt icons für das OEREB-Rahmenmodell)*
 
 ## Handbuch:
 https://sogis.github.io/oereb-handbuch/master.html
