@@ -1,5 +1,5 @@
 # ilivalidator-web-service
-## Verantwortlicher:
+Verantwortlicher:
 
 ## Beschreibung funktionale Einheit:
 Der Webservice wird hauptsächlich heute für die Nutzungsplanung verwendet, steht aber im Prinzip für alle Modelle offen.
