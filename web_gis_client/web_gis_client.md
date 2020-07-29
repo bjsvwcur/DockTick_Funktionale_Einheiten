@@ -1,5 +1,5 @@
 # Web GIS Client
-## Verantwortlicher:
+Verantwortlicher: 
 
 ## Beschreibung funktionale Einheit:
 * Druck Grundbuchplan
