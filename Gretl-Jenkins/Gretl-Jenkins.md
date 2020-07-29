@@ -1,5 +1,5 @@
 # Gretl-Jenkins
-## Verantwortlicher:
+Verantwortlicher:
 
 ## Beschreibung Funktionale Einheit:
 
