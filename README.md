@@ -2,7 +2,7 @@
 DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffentlich)
 
 * **AV-Datenabgabe**
-  * [Benutzer](https://github.com/sogis/av_datenabgabe_ng)
+  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/AV-Datenabgabe/AV-Datenabgabe.md)
   * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/av-datenabgabe)
 * **avdpool-camel**
   * Benutzer
