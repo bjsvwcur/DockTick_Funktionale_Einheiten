@@ -1,5 +1,5 @@
 # avdpool-camel
-## Verantwortlicher:
+Verantwortlicher:
 
 ## Beschreibung Funktionale Einheit:
 AV-Import und -Export auf Basis von Apache Camel. Verwendet für die Umwandlung nach ITF-CH und DXF-Geobau.
