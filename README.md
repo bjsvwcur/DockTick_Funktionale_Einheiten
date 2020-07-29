@@ -53,7 +53,7 @@ DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffent
   * Benutzer
   * Betrieb
 * **Web GIS Client**
-  * Benutzer
+  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/web_gis_client/web_gis_client.md)
   * Betrieb
 * **WMTS**
   * Benutzer
