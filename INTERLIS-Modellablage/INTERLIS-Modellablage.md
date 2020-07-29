@@ -1,5 +1,5 @@
 # INTERLIS-Modellablage
-## Verantwortlicher:
+Verantwortlicher:
 
 ## Beschreibung Funktionale Einheit:
 Automatisiertes Herstellen und Deployen der INTERLIS-Modellablage. Basiert auf Gradle-Skript. Verwendet GRETL und weiteres Plugin (“interlis-repository-creator”).
