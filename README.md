@@ -5,8 +5,8 @@ DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffent
   * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/AV-Datenabgabe/AV-Datenabgabe.md)
   * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/av-datenabgabe)
 * **avdpool-camel**
-  * Benutzer
-  * Betrieb
+  * [Benutzer](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/avdpool-camel/avdpool-camel.md)
+  * [Betrieb](https://github.com/sogis/openshift-templates/tree/master/avdpool)
 * **CCC-Service**
   * Benutzer
   * Betrieb
