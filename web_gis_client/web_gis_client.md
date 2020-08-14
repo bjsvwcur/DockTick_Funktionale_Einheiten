@@ -6,6 +6,7 @@ Verantwortlicher:
 * Mapinfo
 * Permalink
 * AGDI
+* Suche
 
 ## Anleitungen:
 * AGDI
