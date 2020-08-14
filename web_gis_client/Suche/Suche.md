@@ -53,7 +53,7 @@ und arbeitet diese in einer Queue mittels der Solr-Komponenten "Update", "DIH" u
 
 ## Benutzerdokumentation (AGI)
 
-* $td Wie das Ganze im AGDI Konfiguriert wird... --> Referenz auf das entsprechende Kapitel im AGDI Benutzerhandbuch
+* "H:\BJSVW\Agi\GDI\Betrieb\AGDI\Erfassung_im_AGDI.docx", Kapitel 8.6
 
 ## Betrieb
 * Welche Openshift-Projekte...
