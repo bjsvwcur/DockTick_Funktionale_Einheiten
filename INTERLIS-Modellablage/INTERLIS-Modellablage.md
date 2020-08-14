@@ -7,6 +7,6 @@ Automatisiertes Herstellen und Deployen der INTERLIS-Modellablage. Basiert auf G
 ## Handbuch
 https://github.com/sogis/sogis-interlis-repository/blob/master/docs/betriebs-_und_nachfuehrungshandbuch.md
 
-## Repos:
+## Repo:
 https://github.com/sogis/sogis-interlis-repository
 https://github.com/sogis/interlis-repository-creator
