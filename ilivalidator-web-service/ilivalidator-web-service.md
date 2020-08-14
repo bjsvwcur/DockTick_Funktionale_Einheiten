@@ -7,7 +7,7 @@ Für die Nutzungsplanung wurden spezielle Validierungsfunktionen implementiert.
 
 Die Programmbibliothek ilivalidator selbst ist nicht Bestandteil dieser funktionalen Einheit. 
 
-## Repos:
+## Repo:
 https://github.com/sogis/ilivalidator-web-service-websocket
 
 https://github.com/sogis/ilivalidator-custom-functions
