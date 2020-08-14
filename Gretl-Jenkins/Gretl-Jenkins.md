@@ -3,7 +3,7 @@ Verantwortlicher:
 
 ## Beschreibung Funktionale Einheit:
 
-## Repos:
+## Repo:
 https://github.com/sogis/gretljobs
 
 https://github.com/sogis/oereb-gretljobs
