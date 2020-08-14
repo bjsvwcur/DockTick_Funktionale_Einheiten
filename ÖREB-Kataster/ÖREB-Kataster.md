@@ -16,7 +16,7 @@ Verantwortlicher:
 ## Handbuch OEREB-Kataster Kanton Solothurn:
 https://sogis.github.io/oereb-handbuch/master.html
 
-## Repos:
+## Repo:
 https://github.com/claeis/oereb-web-service
 
 https://github.com/sogis/oereb-web-service-docker
