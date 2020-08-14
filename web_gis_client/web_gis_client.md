@@ -6,7 +6,7 @@ Verantwortlicher:
 * Mapinfo
 * Permalink
 * AGDI
-* Suche
+* [Suche](https://github.com/bjsvwcur/DockTick_Funktionale_Einheiten/blob/master/web_gis_client/Suche/Suche.md)
 
 ## Anleitungen:
 * AGDI
