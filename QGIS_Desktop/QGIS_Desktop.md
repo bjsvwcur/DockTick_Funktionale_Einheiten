@@ -17,11 +17,21 @@ Supportvertrag opengis.ch: https://www.pastel.io/users/sign_in
 
 ## Testing:
 
+**Konzept:**
+
+"H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Testkonzept_V02.docx"
+
 **Vorlageprotokolle:**
 
 "H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Vorlage_Testprotokoll_Projekte_V2.docx"
 
 "H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Vorlage_Testprotokoll_Werkzeuge_V2.docx"
+
+## Anleitungen:
+
+**Installation QGIS LTR Windows:** "H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Installationsanleitung QGIS 3.10.docx"
+
+**AGI-Anleitungen Anwendung:** https://intraso.rootso.org/verwaltung/bau-und-justiz/amt-fuer-geoinformation/dokumente-und-grundlagen/qgis/
 
 ## QGIS Repo:
 https://github.com/opengisch
