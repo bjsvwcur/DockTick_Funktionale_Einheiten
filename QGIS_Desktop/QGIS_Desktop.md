@@ -6,7 +6,7 @@ Verantwortlicher: bjsvwneu
 * Koordination von Bugfixing mit externer Firma 
 
 ## Releasplanung:
-AIO: Siehe Intranet / Desktop 2016 / Releaseplanung.pdf
+AIO: https://intraso.rootso.org/fileadmin/intranet/fd/fd-aio/fd-aio-allgemein/pdf/Releaseplanung.pdf
 
 QGIS: https://qgis.org/en/site/getinvolved/development/roadmap.html?highlight=release
 
