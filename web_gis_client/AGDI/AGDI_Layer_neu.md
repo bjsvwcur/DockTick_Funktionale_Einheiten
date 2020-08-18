@@ -2,6 +2,8 @@
 
 Beim neuen Layer liegen dessen Daten noch nicht Produktions-DB der geodb und er ist daher noch nicht im AGDI erfasst
 
+![Alt-Text](https://github.com/bjsvwcur/DockTick_Funktionale_Einheiten/blob/master/web_gis_client/AGDI/Ablauf_Layererfassung_neuer_Layer.jpg)
+
 **neu**
 
 Der Auftraggeber erfasst im Redmine ein neues Ticket im Projekt Tagesgeschäft oder im Projekt P_Ablösung SO!MAP Client. Im Tickets stehen die Details zum Auftrag und der Tracker wird auf "Layer Web GIS Client" gestellt.
