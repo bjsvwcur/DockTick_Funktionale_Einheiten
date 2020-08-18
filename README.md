@@ -8,7 +8,7 @@ DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffent
 * **Datenbanken**
 * **gb2av-web-service**
 * [**Gretl**](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/Gretl/Gretl.md)
-* [**Gretl-Jenkins**](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/Gretl-Jenkins/Gretl-Jenkins.md)
+* **Gretl-Jenkins**
 * **ili2pg und ilivalidator**
 * [**ilivalidator-web-service**](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/ilivalidator-web-service/ilivalidator-web-service.md)
 * [**Interlis-Modellablage**](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/INTERLIS-Modellablage/INTERLIS-Modellablage.md)
