@@ -15,7 +15,15 @@ Ticketsystem opengis.ch: https://app.hive.com/signin
 
 Supportvertrag opengis.ch: https://www.pastel.io/users/sign_in
 
-## Repo:
+## Testing:
+
+**Vorlageprotokolle:**
+
+"H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Vorlage_Testprotokoll_Projekte_V2.docx"
+
+"H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Vorlage_Testprotokoll_Werkzeuge_V2.docx"
+
+## QGIS Repo:
 https://github.com/opengisch
 
 https://github.com/qgis/QGIS/issues
