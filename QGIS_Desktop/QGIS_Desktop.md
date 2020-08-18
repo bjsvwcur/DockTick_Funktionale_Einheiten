@@ -29,9 +29,9 @@ Supportvertrag opengis.ch: https://www.pastel.io/users/sign_in
 
 ## Anleitungen:
 
-**Installation QGIS LTR Windows:** "H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Installationsanleitung QGIS 3.10.docx"
+* Installation QGIS LTR Windows: "H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Installationsanleitung QGIS 3.10.docx"
 
-**AGI-Anleitungen Anwendung:** https://intraso.rootso.org/verwaltung/bau-und-justiz/amt-fuer-geoinformation/dokumente-und-grundlagen/qgis/
+* AGI-Anleitungen Anwendung: https://intraso.rootso.org/verwaltung/bau-und-justiz/amt-fuer-geoinformation/dokumente-und-grundlagen/qgis/
 
 ## QGIS Repo:
 https://github.com/opengisch
