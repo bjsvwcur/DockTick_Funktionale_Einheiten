@@ -1,7 +1,7 @@
 # Web GIS Client
 Verantwortlicher: 
 
-## Beschreibung funktionale Einheit:
+## Beschreibung Funktionale Einheit:
 * Druck Grundbuchplan
 * Mapinfo
 * Permalink
