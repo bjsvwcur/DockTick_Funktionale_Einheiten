@@ -11,13 +11,14 @@ Verantwortlicher:
 * oereb-iconizer  *(Erstellt icons für das OEREB-Rahmenmodell)*
 * oereb-db *(Datenbankstruktur für den ÖREB-Kataster)*
 ### Übersichtsdiagramm:
-![Übersichtsdiagramm](https://github.com/sogis/components/raw/master/doc/dia/subsystems.png)
+xxxx
 
 ## Handbuch OEREB-Kataster Kanton Solothurn:
 https://sogis.github.io/oereb-handbuch/master.html
 
 ## Anleitungen:
 * Testdatenbank erstellen: https://github.com/sogis/oereb-db
+* Annex: ÖREB-Themen für Gemeinde freischalten: "H:\BJSVW\Agi\Projekte\AGI\OEREB\AP_Infrastruktur\Annex-Modell\Betrieb\Anleitung ÖREB-Themen freischalten_v2.docx"
 
 ## Repo:
 https://github.com/claeis/oereb-web-service
