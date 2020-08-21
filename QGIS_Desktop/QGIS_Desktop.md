@@ -15,6 +15,12 @@ Ticketsystem opengis.ch: https://app.hive.com/signin
 
 Supportvertrag opengis.ch: https://www.pastel.io/users/sign_in
 
+### Repo:
+https://github.com/opengisch
+
+https://github.com/qgis/QGIS/issues
+
+
 ## Testing:
 
 **Konzept:**
@@ -33,7 +39,3 @@ Supportvertrag opengis.ch: https://www.pastel.io/users/sign_in
 
 * AGI-Anleitungen Anwendung: https://intraso.rootso.org/verwaltung/bau-und-justiz/amt-fuer-geoinformation/dokumente-und-grundlagen/qgis/
 
-## QGIS Repo:
-https://github.com/opengisch
-
-https://github.com/qgis/QGIS/issues
