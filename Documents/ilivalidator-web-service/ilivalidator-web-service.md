@@ -10,7 +10,7 @@ Für die Nutzungsplanung wurden spezielle Validierungsfunktionen implementiert.
 Die Programmbibliothek ilivalidator selbst ist nicht Bestandteil dieser funktionalen Einheit. 
 
 ### Funktionsweise:
-Hier fehlt das Diagram
+<Hier fehlt das Diagramm und die Erläterungen dazu>
 
 ## Repo und weitere Informationen:
 ilivalidator-web-service: https://github.com/sogis/ilivalidator-web-service
