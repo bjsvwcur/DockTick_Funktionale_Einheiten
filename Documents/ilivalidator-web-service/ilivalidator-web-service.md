@@ -2,7 +2,7 @@
 
 Verantwortlicher: Stefan Ziegler
 
-## Beschreibung funktionale Einheit:
+## Beschreibung Funktionale Einheit:
 Der ilivalidator-web-service ist eine [Spring-Boot-Anwendung](https://spring.io/projects/spring-boot) und verwendet [ilivalidator](https://github.com/claeis/ilivalidator) für die Validierung der INTERLIS-Übertragungsdatei.
 Der Webservice wird hauptsächlich für die Nutzungsplanung verwendet, steht aber im Prinzip für alle Modelle offen.
 Für die Nutzungsplanung wurden spezielle Validierungsfunktionen implementiert. 
