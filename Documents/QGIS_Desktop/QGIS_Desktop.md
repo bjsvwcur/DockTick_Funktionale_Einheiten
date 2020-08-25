@@ -1,5 +1,5 @@
 # QGIS Desktop
-Verantwortlicher: bjsvwneu
+Verantwortlicher: Andreas Neumann
 
 ## Beschreibung Funktionale Einheit:
 * Koordination von Updates und Upgrades 
