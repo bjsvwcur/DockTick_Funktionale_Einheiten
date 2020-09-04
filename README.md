@@ -18,6 +18,7 @@ DockTick Dokumentationsverzeichnis Übersicht der Funktionale Einheiten (öffent
 * [**QGIS Desktop**](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/Documents/QGIS_Desktop/QGIS_Desktop.md)
 * **SO!API (Services)**
 * **SO!Locator**
+* [**Suchservice**](https://github.com/bjsvwcur/DockTick_Funktionale_Einheiten/blob/master/Documents/Suchservice/Suchservice.md)
 * **Veriso**
 * [**Web GIS Client**](https://github.com/bjsvwcur/Dokumentenablage_Funktionale_Einheiten/blob/master/Documents/web_gis_client/web_gis_client.md)
 * **WMTS**
