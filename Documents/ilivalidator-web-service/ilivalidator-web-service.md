@@ -14,7 +14,7 @@ Die Programmbibliothek ilivalidator selbst ist nicht Bestandteil dieser funktion
 <Hier fehlt das Diagramm und die Erläterungen dazu>
 
 ## Benutzung
-**Aufruf des ilivalidator-web-service:**
+Aufruf des ilivalidator-web-service.
 
 Produktion: https://geo.so.ch/ilivalidator
 
