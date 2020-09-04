@@ -2,24 +2,31 @@
 
 Verantwortlicher: Stefan Ziegler
 
-## Beschreibung Funktionale Einheit:
+## Beschreibung Funktionale Einheit
 Der ilivalidator-web-service ist eine [Spring-Boot-Anwendung](https://spring.io/projects/spring-boot) und verwendet [ilivalidator](https://github.com/claeis/ilivalidator) für die Validierung der INTERLIS-Übertragungsdatei.
-Der Webservice wird hauptsächlich für die Nutzungsplanung verwendet, steht aber im Prinzip für alle Modelle offen.
+
+Der ilivalidator-web-service  stellt eine einfache Art dar INTERLIS-Daten gegenüber einem INTERLIS-Modell zu prüfen (= Modellkonformität). Die zu prüfenden INTERLIS-Daten werden mittels Webformular auf einen Server hochgeladen, wo sie anschliessend automatisch geprüft werden. Das Prüfresultat wird direkt im Browser angezeigt.
 Für die Nutzungsplanung wurden spezielle Validierungsfunktionen implementiert. 
 
 Die Programmbibliothek ilivalidator selbst ist nicht Bestandteil dieser funktionalen Einheit. 
 
-### Funktionsweise:
+### Funktionsweise
 <Hier fehlt das Diagramm und die Erläterungen dazu>
 
-## Repo und weitere Informationen:
-ilivalidator-web-service: https://github.com/sogis/ilivalidator-web-service
+## Benutzung
+**Aufruf des ilivalidator-web-service:**
 
-claeis/ilivalidtor: https://github.com/claeis/ilivalidator
-
-## Aufruf:
 Produktion: https://geo.so.ch/ilivalidator
 
 Integration: https://geo-i.so.ch/ilivalidator
 
 Test: https://geo-t.so.ch/ilivalidator
+
+### Benutzerhandbuch
+Benutzerhandbuch zur Bedieung des Webservices: https://github.com/sogis/ilivalidator-web-service/blob/master/docs/user-manual-de.rst
+
+## Konfiguration und Betrieb in der GDI
+* **Template Openshift:** https://github.com/sogis/openshift-templates/tree/master/ilivalidator
+* **Repo ilivalidator-web-service:** https://github.com/sogis/ilivalidator-web-service
+
+
