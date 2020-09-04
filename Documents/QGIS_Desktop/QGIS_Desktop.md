@@ -56,8 +56,12 @@ QGIS Releasplanung: https://qgis.org/en/site/getinvolved/development/roadmap.htm
 
 
 ## Testing:
-Bugfix-Versionen werden ca. zweimal pro Jahr installiert. Sie werden nur vom AGI getestet, da davon ausgegangen wird, dass sich mit den Bugfixes keine neuen Fehler in den Release schleichen. Falls sich das nicht bestätigt, wird die Installation von Bugfix-Versionen auf einmal pro Jahr reduziert, mit vorgängigen Tests durch das AGI und die Ämter.
+Bugfix-Versionen werden ca. zweimal pro Jahr installiert. Sie werden nur vom AGI getestet, da davon ausgegangen wird, dass sich mit den Bugfixes keine neuen Fehler in den Release schleichen. 
 Falls in der Testphase Blocker-Bugs festgestellt werden, werden diese dem Wartungspartner gemeldet. Das Update verschiebt sich entsprechend auf eine nachfolgende Bugfix-Version.
+
+Das Testen einer neuen QGIS LTR Version wird in zwei Bereiche aufgeteilt. Funktionalitäten/Werkzeuge und Projekte. Die Funktionalitäten sowie Werkzeuge werden von den MA vom AGI und den GIS Koordinatoren getestet. Die Projekte mit allen Projekteigenschaften werden von den MA vom AGI getestet.
+Die Testphase startet, sobald die neue QGIS LTR Version auf Desktop 2016 installiert und die allgemeinen Einstellungen vom QGIS dokumentiert sind. 
+Für beide Testbereiche gibt es je ein Testprotokoll in welchem aufgeführt ist was getestet werden muss, wer getestet hat und wann getestet wurde. Jeder Tester führt ein Protokoll.
 
 **Testkonzept:**
 
