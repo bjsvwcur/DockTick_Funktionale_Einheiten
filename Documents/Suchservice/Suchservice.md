@@ -1,4 +1,4 @@
-# Suchrevice
+# Suchservice
 Verantwortlicher: Oliver Jeker
 
 ## Beschreibung Funktionale Einheit
