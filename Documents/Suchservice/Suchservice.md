@@ -1,5 +1,5 @@
-# Suche
-Verantwortlicher:
+# Suchrevice
+Verantwortlicher: Oliover Jeker
 
 ## Beschreibung Funktionale Einheit:
 Volltext-Suchservice für die Suche nach Kartenebenen und Orten. 
