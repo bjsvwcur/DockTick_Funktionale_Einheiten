@@ -1,7 +1,7 @@
 # Suchrevice
 Verantwortlicher: Oliver Jeker
 
-## Beschreibung Funktionale Einheit:
+## Beschreibung Funktionale Einheit
 Volltext-Suchservice für die Suche nach Kartenebenen und Orten. 
 
 Die folgenden Objekttypen können mittels Suchservice gesucht werden:
