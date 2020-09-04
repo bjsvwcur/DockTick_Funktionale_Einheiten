@@ -26,7 +26,7 @@ Test: https://geo-t.so.ch/ilivalidator
 Benutzerhandbuch zur Bedieung des Webservices: https://github.com/sogis/ilivalidator-web-service/blob/master/docs/user-manual-de.rst
 
 ## Konfiguration und Betrieb in der GDI
-* **Template Openshift:** https://github.com/sogis/openshift-templates/tree/master/ilivalidator
-* **Repo ilivalidator-web-service:** https://github.com/sogis/ilivalidator-web-service
+* Template Openshift: https://github.com/sogis/openshift-templates/tree/master/ilivalidator
+* Repo ilivalidator-web-service: https://github.com/sogis/ilivalidator-web-service
 
 
