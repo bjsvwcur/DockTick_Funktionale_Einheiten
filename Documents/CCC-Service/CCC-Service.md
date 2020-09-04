@@ -12,5 +12,5 @@ Der CCC-Service verbindet als "Mittelsmann" GIS-unwillige Fachapplikationen mit 
 
 Die Session stellt sicher, dass die Nachrichten für den Benutzer korrekt von der Fachapplikation an die Kartenapplikation des AGI weitergereicht wird.
 
-### Repo und weitere Informationen:
+### Repo und weitere Informationen
 ccc-service: https://github.com/sogis/ccc-service
