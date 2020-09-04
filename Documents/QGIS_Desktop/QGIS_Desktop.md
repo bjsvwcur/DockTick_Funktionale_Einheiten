@@ -10,7 +10,7 @@ Das Amt für Geoinformation betreibt und supportet für seine Kunden das QGIS LT
 
 ## Benutzung:
 Seit 01.09.2020 ist das QGIS LTR 3.10.7 produktiv geschaltet.
-Die Anwendung ist im Desktop 2016 unter `Start/Alle Programme/Fachanwendungen/` zu finden. Das QGIS ist im Desktop 2016 nur für jene Benutzer ersichtlich welche mittels einem Systemantrag beim AIO die Freigabe beantragt haben (Anwendung `GA_Xen_QGIS`).
+Die Anwendung ist im Desktop 2016 unter `Start/Alle Programme/Fachanwendungen/` zu finden. Das QGIS ist im Desktop 2016 nur für jene Benutzer ersichtlich, welche mittels einem Systemantrag beim AIO die Freigabe beantragt haben (Anwendung `GA_Xen_QGIS`).
 
 ### Anleitungen:
 * AGI-Anleitungen: https://intraso.rootso.org/verwaltung/bau-und-justiz/amt-fuer-geoinformation/dokumente-und-grundlagen/qgis/
