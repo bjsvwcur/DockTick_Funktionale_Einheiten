@@ -2,9 +2,7 @@
 Verantwortlicher: Andreas Neumann
 
 ## Beschreibung Funktionale Einheit:
-Das Amt für Geoinformation betreibt und supportet für seine Kunden das QGIS LTR. Ca. 130 Benutzer haben einen Zugang zur Software.
-
-Folgende Aufgaben sind Bestandteil für den Betrieb und den Support:
+Das Amt für Geoinformation betreibt und supportet für seine Kunden das QGIS LTR. Ca. 130 Benutzer haben einen Zugang zur Software. Folgende Aufgaben sind Bestandteil für den Betrieb und den Support:
 * Supportunterstützung First- und Second-Level
 * Schulung
 * Koordination von Updates und Upgrades 
