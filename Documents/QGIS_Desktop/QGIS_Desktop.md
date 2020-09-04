@@ -64,6 +64,7 @@ Falls in der Testphase Blocker-Bugs festgestellt werden, werden diese dem Wartun
 Testkonzept: `H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Testkonzept_V02.docx`
 
 **Vorlageprotokolle:**
+
 Projekte: `H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Vorlage_Testprotokoll_Projekte_V2.docx`
 
 Werkzeuge: `H:\BJSVW\Agi\Projekte\AGI\QGIS-LTR Update\Vorlage_Testprotokoll_Werkzeuge_V2.docx`
