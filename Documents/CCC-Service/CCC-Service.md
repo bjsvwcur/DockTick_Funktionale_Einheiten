@@ -2,10 +2,10 @@
 
 Verantwortlicher: Oliver Jeker
 
-## Beschreibung Funktionale Einheit:
+## Beschreibung Funktionale Einheit
 Bilaterale Kommunikationsschnittstelle, mit welcher Fachapplikationen ohne GIS-Fähigkeiten die Karten- und Editierfunktionen der GDI nutzen können. Die Kommunikation erfolgt über Websocket.
 
-### Funktionsweise:
+### Funktionsweise
 ![](https://github.com/sogis/ccc-service/raw/master/docs/res/overview.png)
 
 Der CCC-Service verbindet als "Mittelsmann" GIS-unwillige Fachapplikationen mit den Kartenapplikationen des AGI.
