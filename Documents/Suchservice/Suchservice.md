@@ -56,16 +56,16 @@ und arbeitet diese in einer Queue mittels der Solr-Komponenten "Update", "DIH" u
 * Via's (GDI-Gateway, SES, ...)
 * Solr-Cloud
 
-### Erfassung_im_AGDI
-
-* `H:\BJSVW\Agi\GDI\Betrieb\AGDI\Erfassung_im_AGDI.docx`, Kapitel 8.6
-
 $td Todo:
 * "Zusammenstöpseln" für den Solr Dataimporthandler
 * Manuell Indexslice neu laden
 * Manuell den ganzen Index mittels Admin-Interface neu laden
 
 Die Solr-Konfiguration wird im git repo [sogis/solr](https://github.com/sogis/solr) verwaltet.
+
+### Erfassung_im_AGDI
+
+* `H:\BJSVW\Agi\GDI\Betrieb\AGDI\Erfassung_im_AGDI.docx`, Kapitel 8.6
 
 ### Problemanalyse mittels Shell-Skript
 
