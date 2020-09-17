@@ -51,14 +51,14 @@ $td Link auf das Repository, sobald public.
 und arbeitet diese in einer Queue mittels der Solr-Komponenten "Update", "DIH" und "Query" ab. AGI-Eigenentwicklung 
 [Link auf Repo](https://github.com/sogis/indexupdater).
 
-## Benutzerdokumentation (AGI)
-
-* `H:\BJSVW\Agi\GDI\Betrieb\AGDI\Erfassung_im_AGDI.docx`, Kapitel 8.6
-
 ## Betrieb
 * Welche Openshift-Projekte...
 * Via's (GDI-Gateway, SES, ...)
 * Solr-Cloud
+
+### Erfassung_im_AGDI
+
+* `H:\BJSVW\Agi\GDI\Betrieb\AGDI\Erfassung_im_AGDI.docx`, Kapitel 8.6
 
 $td Todo:
 * "Zusammenstöpseln" für den Solr Dataimporthandler
