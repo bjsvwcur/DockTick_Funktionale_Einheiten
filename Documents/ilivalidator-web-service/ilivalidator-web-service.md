@@ -11,7 +11,7 @@ Für die Nutzungsplanung wurden spezielle Validierungsfunktionen implementiert.
 Die Programmbibliothek ilivalidator selbst ist nicht Bestandteil dieser funktionalen Einheit. 
 
 ### Funktionsweise
-<Hier fehlt das Diagramm und die Erläterungen dazu>
+<Hier fehlt das Diagramm und die Erläuterungen dazu>
 
 ## Benutzung
 Aufruf des ilivalidator-web-service.
