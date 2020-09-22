@@ -1,4 +1,4 @@
-![]((https://https://github.com/bjsvwcur/DockTick/blob/master/Logo.png)
+![]((https://github.com/bjsvwcur/DockTick/blob/master/Logo.png)
 
 **Amt für Geoinformation**
 # Dokumentenablage Funktionale Einheiten
